@@ -2,6 +2,7 @@
 Audio Conversion and Comparison Tool for Linux
 
 Prerequesites:
+Python
 PySimpleGUIQt (Python Module)
 Flac
 WavPack
@@ -17,7 +18,9 @@ Convert:
 Allows you to convert from one supported filetype to another. Tags will not be converted, audio only. Allows  you to choose custom directories, and will create new directories if it does not yet exist. You can also choose from a simple drop-down list for express conversion.
 
 Convert+:
-This provides the ability for bulk conversion. Input accepts a folder directory instead of file. The input files can be specified to a single filetype, or the input can accept all supported filetypes within the given directory. All input files will be converted to a user-specified filetype. They will be outputted to a new folder.
+This provides the ability for bulk conversion. Input accepts a folder directory instead of file. The program can be specified to only convert files of a certain type, or all files with a supported filetype. They will be converted and outputted to a new folder. The user can also choose to include subdirectories, will be organized exactly like the original folder.
 
 Supported Formats:
 wav, wv, flac, aiff
+
+For more detailed error logs from the program, check the command line!
