@@ -2,11 +2,11 @@
 Audio Conversion and Comparison Tool for Linux
 
 Prerequesites:
-Python
-PySimpleGUIQt (Python Module)
-Flac
-WavPack
-FFmpeg
+-Python
+-PySimpleGUIQt (Python Module)
+-Flac
+-WavPack
+-FFmpeg
 
 Documentation:
 Allows you to compare two files (simple or advanced), convert from one file to another (within supported formats), and bulk convert.
