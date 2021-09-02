@@ -3,7 +3,7 @@ Audio Conversion and Comparison Tool for Linux
 
 Prerequesites: Python, PySimpleGUIQt (Python Module), FLAC, WavPack, FFmpeg  
 Use this command to install dependencies on Ubuntu-based systems:  
-'''sudo apt-get install flac wapack ffmpeg ; pip install PySimpleGUIQt'''
+```sudo apt-get install flac wapack ffmpeg ; pip install PySimpleGUIQt```
 
 Documentation:
 Allows you to compare two files (simple or advanced), convert from one file to another (within supported formats), and bulk convert.
