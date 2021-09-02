@@ -1,8 +1,8 @@
 # AudioForge
 Audio Conversion and Comparison Tool for Linux
 
-Prerequesites: Python, PySimpleGUIQt (Python Module), FLAC, WavPack, FFmpeg
-Use this command to install dependencies on Ubuntu-based systems:
+Prerequesites: Python, PySimpleGUIQt (Python Module), FLAC, WavPack, FFmpeg  
+Use this command to install dependencies on Ubuntu-based systems:  
   sudo apt-get install flac wapack ffmpeg ; pip install PySimpleGUIQt
 
 Documentation:
